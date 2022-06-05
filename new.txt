@@ -1,2 +1,3 @@
 It is a second file in my project MyTest learning
-Testing coflicts
+Testing coflictsline
+new branch
