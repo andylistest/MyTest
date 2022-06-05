@@ -6,3 +6,4 @@ public static void Method (int a, int b){
 int c = a + b;
 return c;
 }
+changes on GitHub
