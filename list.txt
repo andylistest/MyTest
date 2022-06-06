@@ -1,5 +1,0 @@
-It is a second file in my project MyTest learning
-Have two lines
-Conflict new one
-New line for GUI
-I will delete all this files
