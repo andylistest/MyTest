@@ -1,4 +1,4 @@
 It is a second file in my project MyTest learning
 Have two lines
-333
 Conflict new one
+New line for GUI
