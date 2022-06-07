@@ -7,7 +7,10 @@ public class GitHub {
 		int age = in.nextInt();
 		System.out.println("Enter your name:");
 		String name = in.next();
-		System.out.println("Name " + name + ", age " + age + " years old.");
+		System.out.println("Enter your last name:");
+		String lastName = in.next();
+		System.out.println("Name: " + name + /n"Last name: " + lastName + /n"age: " + age + " years old.");
+		
 	}
 }
 
