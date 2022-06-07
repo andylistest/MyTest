@@ -9,7 +9,7 @@ public class GitHub {
 		String name = in.next();
 		System.out.println("Enter your last name:");
 		String lastName = in.next();
-		System.out.println("Name: " + name + /n"Last name: " + lastName + /n"age: " + age + " years old.");
+		System.out.println("Name: " + name + "\n" + "Last name: " + lastName + "\n" + "age: " + age + " years old.");
 		
 	}
 }
